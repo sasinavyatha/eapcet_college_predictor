@@ -1,0 +1,5 @@
+backend/college/model.pkl
+*.pkl
+.venv/
+__pycache__/
+*.pyc
